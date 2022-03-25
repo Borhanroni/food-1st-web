@@ -7,15 +7,60 @@
     }
     .image{
         width: 50%;
-        height: 35%;
+        height: 50%;
         margin-left: 10px;
         margin-right: 0;
         padding-left:50px;
     }
     .image img{
-            width: 80%;
+        width: 80%;
+        padding-left: 50px;
+        
+    }
+    .image1{
+        margin-left: 100px;
+        padding-left:50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-right: 50px;
+        border-radius: 5%;
+        background-image: url(images/download.jpg);
+        
+    }
+    .image2{
+        margin-left: 100px;
+        padding-left:50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-right: 50px;
+        border-radius: 5%;
+        background-image: url(images/download\ \(1\).jpg);
+        
+    }
+    .image3{
+        margin-left: 100px;
+        padding-left:50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-right: 50px;
+        border-radius: 5%;
+        background-image: url(images/images.jpg);
+        
+    }
+    .image1 img{
+            width: 20%;
+            height: 20%;
             padding-left: 50px;
         }
+        .image2 img{
+            width: 20%;
+            height: 20%;
+            padding-left: 50px;}
+            .image3 img{
+                width: 20%;
+                height: 20%;
+                padding-left: 50px;}
+    
     .link{
         background-color: blue;
         color: azure;
@@ -30,19 +75,7 @@
     .year{
         color: darkorange;
     }
- .pitures{
-     display: flex;
-     width: 50px;
- }
-  .pica{
-      width: 10%;
-      height: 10%;
-  }
-    .pitures img{
-        width: 5%;
-    }
-
-
+ 
 body{
     font-family: 'Oswald', sans-serif;
 }
