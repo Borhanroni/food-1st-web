@@ -1,0 +1,58 @@
+
+.shop-images{
+    display: flex;
+}
+    .welcome-food{
+        padding: 5px;
+    }
+    .image{
+        width: 50%;
+        height: 35%;
+        margin-left: 10px;
+        margin-right: 0;
+        padding-left:50px;
+    }
+    .image img{
+            width: 80%;
+            padding-left: 50px;
+        }
+    .link{
+        background-color: blue;
+        color: azure;
+        padding: 10px 50px;
+        font-weight: 200;
+        border-radius: 5%;
+        
+    }
+    .mission{
+        text-align: center;
+    }
+    .year{
+        color: darkorange;
+    }
+ .pitures{
+     display: flex;
+     width: 50px;
+ }
+  .pica{
+      width: 10%;
+      height: 10%;
+  }
+    .pitures img{
+        width: 5%;
+    }
+
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.pure{
+    color: darksalmon;
+ 
+}
+.welcome{
+    font-size: xx-large;
+}
+.food{
+    color: crimson;
+}
