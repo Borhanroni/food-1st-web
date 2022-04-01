@@ -60,6 +60,10 @@
                 width: 20%;
                 height: 20%;
                 padding-left: 50px;}
+                .next-mission{
+                    display: flex;
+                
+                }
     
     .link{
         background-color: blue;
@@ -67,7 +71,19 @@
         padding: 10px 50px;
         font-weight: 200;
         border-radius: 5%;
+        text-decoration: none;
         
+    }
+    .our_mission{
+        padding-top: 20px;
+    }
+    .guti_sweets{
+        width: 50%;
+padding: 50px 50px 50px 100px;
+    }
+    .guti_sweets img{
+        width: 100%;
+        border-radius: 10px;
     }
     .mission{
         text-align: center;
