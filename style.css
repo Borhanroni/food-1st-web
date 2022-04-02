@@ -2,6 +2,12 @@
     display: flex;
 }
 
+.bekary {
+    color: crimson;
+    text-align: center;
+
+}
+
 .footer {
     color: whitesmoke;
     text-align: center;
@@ -154,7 +160,7 @@ body {
 }
 
 .pure {
-    color: darksalmon;
+    color: darkmagenta;
 
 }
 
