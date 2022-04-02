@@ -2,6 +2,27 @@
 .shop-images{
     display: flex;
 }
+#shop-our{
+    border-left: 10px solid;
+    border-image: linear-gradient( gold, red );
+    border-image-slice: 1;
+    border-radius: 10px;
+}
+.sweets img{
+    width: 100%;
+    border-radius: 30px;
+}
+
+.know-our{
+    display: flex;
+    width: 50;
+}
+.corona{
+    color: burlywood;
+}
+.bulid{
+    text-align: center;
+}
     .welcome-food{
         padding: 5px;
     }
@@ -66,11 +87,11 @@
                 }
     
     .link{
-        background-color: blue;
-        color: azure;
+        background-color: bisque;
+        color: red;
         padding: 10px 50px;
         font-weight: 200;
-        border-radius: 5%;
+        border-radius: 10px;
         text-decoration: none;
         
     }
